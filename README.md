@@ -36,36 +36,36 @@ PostgreSQL · MySQL · MongoDB
 Git · GitHub · Postman · JWT · Redux Toolkit
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🚗 SwiftRide — Cab Booking Application
-
-A cab booking application featuring ride management, fare calculation, booking confirmation, and payment integration in Razorpay test mode.
+A cab booking application with ride management, fare calculation, booking confirmation, and Razorpay test-mode payment integration.
 
 **Tech Stack:** JavaScript · Node.js · Express.js · Supabase
 
-### 🤖 AI-First CRM
+🔗 [View Repository](https://github.com/naziri-faiza/SwiftRide)
 
-An AI-assisted CRM application for managing healthcare professional interactions, with a conversational AI assistant and backend API integration.
+### 🤖 AI-First CRM
+An AI-assisted CRM for healthcare professional interactions, featuring a conversational assistant and backend API integration.
 
 **Tech Stack:** React · Redux Toolkit · FastAPI · PostgreSQL · LangGraph
 
 🔗 [View Repository](https://github.com/naziri-faiza/hcp-crm)
 
 ### 🧠 NeuroLink — AI Mental Health Platform
-
-An AI-enabled mental health consultation platform designed to support patient and psychiatrist workflows, appointment management, and AI-assisted documentation.
+A mental health consultation platform with patient and psychiatrist workflows, appointment management, and AI-assisted documentation.
 
 **Tech Stack:** React.js · FastAPI · PostgreSQL · JWT
 
-### 🎙️ VoiceForge — Text-to-Speech Application
+🔗 [View Repository](https://github.com/naziri-faiza/neurolink-app)
 
-A web application for converting text into speech, with voice selection, authentication, and audio generation features.
+### 🎙️ VoiceForge — Text-to-Speech Application
+A text-to-speech application featuring voice selection, authentication, and audio generation.
 
 **Tech Stack:** React · Node.js · Express.js
 
----
+🔗 [View Repository](https://github.com/naziri-faiza/VoiceForge-)
+
 
 ## 🎓 Education
 
