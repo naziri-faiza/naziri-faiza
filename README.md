@@ -69,8 +69,8 @@ Savitribai Phule Pune University
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_PROFESSIONAL_EMAIL
+- 💼 LinkedIn: [My LinkedIn Profile](in/faiza-sadaf-iftekhar-ahmed-43a53b2a6/)
+- 📧 Email: nazirifaiza24@gmail.com
 
 ---
 
